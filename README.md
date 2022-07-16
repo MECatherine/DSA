@@ -1,4 +1,4 @@
-# DSA
+# Data Structures and Algorithms
 
 Data structures play a central role in computer science and are the cornerstones of efficient algorithms. 
 This specialization explores the principles and methods in the design and implementation of various data structures. 
@@ -6,7 +6,7 @@ You will learn the essential skills for algorithm design and performance analysi
 Topics covered by this specialization range from fundamental data structures to recent research results.
 
 
-#Applied Learning Project
+## Applied Learning Project
 
 Algorithms used to solve complex problems
 
